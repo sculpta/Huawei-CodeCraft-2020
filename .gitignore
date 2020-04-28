@@ -1,3 +1,7 @@
-/.idea/*
-/cmake-build-debug/*
-
+/First-Round/.idea/*
+/First-Round/cmake-build-debug/*
+/First-Round/datasets/*/result.txt
+/First-Round/ddd/*
+/Warm-up/.idea/*
+/Warm-up/__pycache__/*
+/Warm-up/reference/*
